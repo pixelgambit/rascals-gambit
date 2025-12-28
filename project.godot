@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="JokerJailbreak"
+config/name="Rascal's Gambit"
 run/main_scene="uid://bbcq5n7nlsksp"
 config/features=PackedStringArray("4.5", "Mobile")
 config/icon="res://icon.svg"
